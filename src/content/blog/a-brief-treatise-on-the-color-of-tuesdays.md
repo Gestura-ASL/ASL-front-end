@@ -1,20 +1,29 @@
 ---
-title: 'A Brief  of Tuesdays'
+title: 'A Brief  Treatise on the Language of Hands'
 description: |
-  A completely serious and not-at-all-scientific investigation into why Tuesday feels overwhelmingly beige.
-  It is the colour of lukewarm tea, forgotten spreadsheets, and a general lack of drama.
+  An earnest yet delightfully unscientific exploration into the world of sign language—where silence speaks louder than words, and every flick, twist, and raised eyebrow carries poetry
 pubDate: 'Aug 28 2025'
 coverImageCredit: 'Sindy Süßengut, Unsplash'
 ---
 
-If Monday is a jarring, fluorescent red and Friday is a warm, celebratory gold, then Tuesday is, without a doubt, beige. Not a cozy, cashmere beige, but the specific shade of a 1990s office computer that has yellowed slightly over time. It is the colour of lukewarm tea and spreadsheets that go on forever. It possesses a unique gravitational pull that makes good ideas feel just out of reach. Scientists have yet to study this phenomenon, presumably because they are too busy experiencing it.
+If spoken language is an orchestra of sound, then sign language is its graceful ballet—performed entirely in silence, but rich in rhythm and emotion. It’s the art of sculpting meaning out of air, of turning gestures into grammar. Each movement is deliberate, each pause significant, and together they form a living, breathing syntax that transcends sound itself.The uninitiated often imagine sign language as simply “words with hands.” That’s like calling dance “walking with flair.” It’s far more layered, visual, and expressive. Facial expressions are grammar. Eyebrows can change tense. A single motion of the wrist can shift tone from gentle to scathing. It’s linguistic origami—folded, precise, and unexpectedly elegant.
 
 ## Stuff to know
 
-Tuesday's beige-ness stems from its position. It lacks the fresh-start-panic of a Monday and the hopeful glow of a Wednesday, the week's halfway point. It is the structural middle child of the work week's beginning; its only job is to connect Monday to Wednesday. This is the day for the tasks you put off because you were "easing into the week." It’s the day of maintenance, of refactoring, of doing the necessary but unglamorous work that is the spiritual essence of beige.
+Sign language isn’t one language—it’s an entire family of them. American Sign Language (ASL), British Sign Language (BSL), Indian Sign Language (ISL)—they all evolved independently, complete with their own idioms, accents, and inside jokes. If English is a text file, sign languages are videos—multidimensional and alive.
 
-The sensory profile of a Tuesday is similarly muted. The sound of a Tuesday is the low hum of an air conditioner. The taste of a Tuesday is a slightly stale biscuit you found in the office pantry near the sad-looking succulents. Its official bird is the pigeon—ubiquitous, functional, and largely ignored. Writing this on a vibrant Saturday here in Pune, the memory of last Tuesday is already fading into a featureless taupe haze.
+Its grammar is spatial rather than linear. Instead of words tumbling one after another, ideas unfold in the air like constellations. You don’t just say “the cat chased the dog”; you show it, mapping the chase through space, assigning invisible coordinates for each participant. It’s communication you can almost see in 3D.
+
+And yes—there are puns. There are dad jokes. There’s even slang. The Deaf community wields sign language with the same humor, sarcasm, and poetry that spoken languages cherish. It’s not a substitute—it’s a parallel masterpiece of human expression.
+
+The sensory profile of sign language is paradoxically rich in silence. The sound of signing is the faint rustle of hands against air. The texture of it is kinetic, smooth, yet powerful. Watching fluent signers converse feels like eavesdropping on a secret current of thought—fluid, immediate, and visually magnetic.
+
+Writing this on a noisy Tuesday afternoon in Pune, I find it funny how sign language feels louder than everything around me
 
 ## Conclusion
 
-We should not fight the beige-ness of Tuesday. We should embrace it. Schedule your most boring meetings for Tuesday. Wear your most unremarkable outfit. Let the day be what it is: a quiet, unassuming bridge to the more interesting parts of the week. There is a strange, understated beauty in its utter lack of drama.
+We should not view sign language as a workaround, but as a wonder. It is the poetry of precision, the choreography of meaning. In a world saturated with noise, it offers a reminder: communication isn’t about volume—it’s about connection.
+
+So, next time you see someone signing, don’t think of silence. Think of dialogue in motion. Think of thought made visible. Think of language—beautifully, rebelliously, alive.
+
+Would you like me to make this sound a bit more humorous and magazine-style (like your “Tuesday” article’s witty tone), or keep this slightly poetic and reflective vibe?
