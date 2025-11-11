@@ -1,5 +1,5 @@
 ---
-title: 'The Secret Social Hierarchy of z-index'
+title: 'The Gap between the Deaf and Hearing'
 description: |
   A not-so-scientific exploration into the supposed divide between Deaf people and the rest of the world—a gap that exists mostly in design, not in DNA. Spoiler: the problem isn’t hearing loss, it’s societal volume.
 pubDate: 'Sep 05 2025'
