@@ -1,9 +1,9 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Saral Theme'
+export const SITE_TITLE = 'Gestura ASL'
 export const SITE_DESCRIPTION =
-	'A simple theme for personal blog sites, created for Astro framework'
+	'An AI Based Integrated Framework for Real-Time Detection and Translation of continous sign language'
 
 // If you deploy to a subdirectory, set the `WEBSITE_BASE` here.
 // e.g. '/blog' if you are deploying to example.com/blog
@@ -13,20 +13,20 @@ export const SITE_BASE = '/saral-theme-astro'
 export const SocialLinks = [
 	{
 		name: 'GitHub',
-		url: 'https://github.com/yashjawale',
+		url: 'https://github.com/VarshithPawarHR',
 	},
-	{
-		name: 'LinkedIn',
-		url: 'https://www.linkedin.com/in/yashjawale/',
-	},
-	{
-		name: 'X / Twitter',
-		url: 'https://twitter.com/imyashjawale',
-	},
-	{
-		name: 'Instagram',
-		url: 'https://instagram.com/imyashjawale',
-	},
+	//{
+	//	name: 'LinkedIn',
+	//	url: '',
+	//},
+	//{
+	//	name: 'X / Twitter',
+	//	url: '',
+	//},
+	//{
+	//	name: 'Instagram',
+	//	url: '',
+	//},
 ]
 
 export const WebsiteLinks = [
@@ -39,7 +39,7 @@ export const WebsiteLinks = [
 		url: 'blog',
 	},
 	{
-		name: 'About',
-		url: 'about',
+		name: 'Product',
+		url: 'product',
 	},
 ]
