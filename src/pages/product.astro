@@ -1,19 +1,24 @@
 ---
+import { Icon } from 'astro-icon/components'
 import BaseLayout from '../layouts/BaseLayout.astro'
 ---
 
 <BaseLayout>
 	<main class="app-container pt-36">
-		<h1 class="text-6xl pb-2 font-bold">Translator</h1>
+		<h1 class="text-6xl pb-2 font-bold">Gestura ASL</h1>
 	</main>
 	<section class="app-container py-12 mb-8">
 		<div
 			class="prose prose-neutral prose-lg md:prose-xl dark:prose-invert prose-img:rounded-xl prose-figure:text-center prose-img:mx-auto"
 		>
 			<p>
-				Here put the translator and its logic 
+				This is the trandslator page. Click the button below to open the translator
+				application.
 			</p>
-			
+			<a class="btn-secondary" href={` http://127.0.0.1:8000/run_capture`}>
+				Click to Open Translator
+				<Icon size={20} name="mdi:arrow-right" />
+			</a>
 		</div>
 	</section>
 </BaseLayout>
